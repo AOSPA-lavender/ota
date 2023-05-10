@@ -1,0 +1,21 @@
+
+  "updates": [
+    {
+      "date": "2023-05-10",
+      "datetime": "1683677623",
+      "filename": "aospa-topaz-1-phone1-20230510-0013.zip",
+      "url": "https://github.com/JustAnotherXenORG/errr/releases/download/builds/aospa-topaz-1-phone1-20230510-0013.zip",
+      "fastboot": "https://edu.dipanshu.workers.dev/3:/Mirrors/aospa-topaz-1-phone1-20230510-0013-image.zip",
+      "mirror": "https://edu.dipanshu.workers.dev/3:/Mirrors",
+      "telegram": "https://t.me/xensupport",
+      "id": "b11c947e9b61daaf21ed56f167e54e189bea1bd3c3a5503defb112710e063d1d",
+      "size": "1924604377",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Battery Styles\nGphotos unlimited"
+    }
+   ]
+}
