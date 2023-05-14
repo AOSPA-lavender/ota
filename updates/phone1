@@ -1,5 +1,23 @@
 {
   "updates": [
+{
+      "date": "2023-05-14",
+      "datetime": "1684044259",
+      "filename": "aospa-topaz-2.XL-phone1-20230514-0604.zip",
+      "url": "https://edu.dipanshu.workers.dev/3:/Mirrors/aospa-topaz-2.XL-phone1-20230514-0604.zip"
+      "fastboot": "https://edu.dipanshu.workers.dev/3:/Mirrors/aospa-topaz-2.XL-phone1-20230514-0604-image.zip
+      "mirror": "https://edu.dipanshu.workers.dev/3:/Mirrors",
+      "telegram": "https://t.me/xensupport",
+      "id": "213334c7a57bdfdd550e690d63f6d977517ed9a645a2072f45da4c4e9b81f217",
+      "size": "1941253394",
+      "build_type": "Stable",
+      "version_code": "2.XL",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Minor ui/ux fixes"
+    },
+
     {
       "date": "2023-05-10",
       "datetime": "1683677623",
